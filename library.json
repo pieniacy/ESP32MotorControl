@@ -5,7 +5,7 @@
   "repository":
   {
     "type": "git",
-    "url": "https://github.com/pieniacy/ESP32MotorControl.git"
+    "url": "https://github.com/JoaoLopesF/ESP32MotorControl.git"
   },
   "version": "0.2.0",
   "frameworks": "arduino",
